@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Halo Bengkulu</h1>
+<p>Saya punya GitHub Pages.</p>
+</body>
+</html>
